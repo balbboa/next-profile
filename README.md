@@ -1,6 +1,6 @@
 ## 1
 
-create next-app "name"
+yarn create next-app "name"
 
 ## 2
 
